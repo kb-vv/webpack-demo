@@ -15,8 +15,8 @@ module.exports = {
     {
         title: 'llw',
         template: 'src/assets/index.html'
-      }
-  )],
+      }),
+    ],
   module: {
     rules: [
       {
